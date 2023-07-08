@@ -1,0 +1,22 @@
+body {
+    background: rgb(187, 230, 101);
+    color: black;
+
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ava {
+width: 200px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.50) ;
+}
+
+.info p {
+color: rgb(150, 116, 13);
+margin: 0;
+font-style: italic;
+text-decoration: underline;
+letter-spacing: 3px;
+}
